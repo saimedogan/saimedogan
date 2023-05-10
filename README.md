@@ -1,5 +1,3 @@
-Sure, I can help you with that. Here is a suggested README for your GitHub personal repository:
-
 # Welcome to my GitHub Profile! 👋
 
 Hello, I am a Bioengineering undergraduate at Marmara University, fascinated by the intersection of biology, technology, and product development. I am continuously looking for opportunities to learn, innovate, and push the boundaries of what's possible in the tech space. 🎓💡
